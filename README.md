@@ -28,5 +28,5 @@ O foco é demonstrar:
 
 ---
 
-## 🏗️ Arquitetura Simplificada
+
 
