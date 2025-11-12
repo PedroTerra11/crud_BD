@@ -6,7 +6,7 @@
 ---
 
 ## 🔥 Sobre o Projeto
-Este projeto implementa um sistema CRUD (Create, Read, Update, Delete) utilizando **Express** e **MySQL**, permitindo o cadastro, listagem, edição e exclusão de registros em banco de dados.
+Este projeto implementa um sistema CRUD (Create, Read, Update, Delete) utilizando **Express** e **MongoDB**, permitindo o cadastro, listagem, edição e exclusão de registros em banco de dados.
 
 O foco é demonstrar:
 - Estruturação de rotas REST
